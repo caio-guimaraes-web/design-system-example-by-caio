@@ -11,10 +11,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
     "@ignite-ui-by-caio/tokens": "*",
+    "@ignite-ui-by-caio/ts-config": "*",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
   }
